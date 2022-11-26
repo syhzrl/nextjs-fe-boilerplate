@@ -8,10 +8,13 @@ src
         |__ fonts
         |__ icons
         |__ images
+
     |__ components ( global components )
+
     |__ containers ( this is where you create your screens, e.g: Login Screen )
         |__ components ( each container can have their own components )
-	|__ pages
+        
+    |__ pages
 ```
 
 Due to how Next.js's routing system works, I prefer to create each screens in the containers folder and render them in the pages folder as so:
