@@ -1,6 +1,6 @@
 This is a static site front end boilerplate with [Next.js](https://nextjs.org/),  [Typescript](https://www.typescriptlang.org/), [Tailwindcss](https://tailwindcss.com/) and [Framer Motion](https://www.framer.com/motion/)
 
-This boilerplate provides predefined file and folder structure to quickly build a static site.
+The folder structure that I prefer to use looks something like this:
 
 ```bash
 src
