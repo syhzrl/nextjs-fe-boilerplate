@@ -8,12 +8,9 @@ src
         |__ fonts
         |__ icons
         |__ images
-
     |__ components ( global components )
-
     |__ containers ( this is where you create your screens, e.g: Login Screen )
         |__ components ( each container can have their own components )
-        
     |__ pages
 ```
 
